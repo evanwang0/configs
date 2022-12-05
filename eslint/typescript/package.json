@@ -1,0 +1,15 @@
+{
+  "name": "@evanwang0/eslint-config-typescript",
+  "version": "0.1.0",
+  "main": ".eslintrc.json",
+  "license": "CC0-1.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.45.0",
+    "@typescript-eslint/parser": "^5.45.0",
+    "eslint": "^8.29.0",
+    "typescript": "^4.9.3"
+  }
+}

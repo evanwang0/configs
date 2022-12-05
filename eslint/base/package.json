@@ -1,0 +1,12 @@
+{
+  "name": "@evanwang0/eslint-config-base",
+  "version": "0.1.0",
+  "main": ".eslintrc.json",
+  "license": "CC0-1.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "peerDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
