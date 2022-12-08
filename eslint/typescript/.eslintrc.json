@@ -1,4 +1,7 @@
 {
+  "extends": [
+    "@evanwang0/eslint-config-base"
+  ],
   "parser": "@typescript-eslint/parser",
   "plugins": [
     "@typescript-eslint"
@@ -215,7 +218,10 @@
     "require-await": "off",
     "@typescript-eslint/require-await": "off",
     "no-return-await": "off",
-    "@typescript-eslint/return-await": "in-try-catch",
+    "@typescript-eslint/return-await": [
+      "error",
+      "in-try-catch"
+    ],
     "semi": "off",
     "@typescript-eslint/semi": "error",
     "space-before-blocks": "off",

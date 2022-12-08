@@ -1,0 +1,9 @@
+lockfileVersion: 5.4
+
+importers:
+
+  eslint/typescript:
+    specifiers:
+      '@evanwang0/eslint-config-base': workspace:^0.2.0
+    dependencies:
+      '@evanwang0/eslint-config-base': link:../base
