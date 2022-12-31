@@ -1,6 +1,6 @@
 {
   "name": "@evanwang0/eslint-config-base",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": ".eslintrc.json",
   "license": "CC0-1.0",
   "repository": "https://github.com/evanwang0/configs",
