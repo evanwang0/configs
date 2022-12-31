@@ -4,6 +4,6 @@ importers:
 
   eslint/typescript:
     specifiers:
-      '@evanwang0/eslint-config-base': workspace:^0.2.0
+      '@evanwang0/eslint-config-base': workspace:^0.3.0
     dependencies:
       '@evanwang0/eslint-config-base': link:../base
