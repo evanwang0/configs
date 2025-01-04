@@ -1,13 +1,13 @@
 {
   "name": "@evanwang0/eslint-config-base",
-  "version": "0.3.0",
-  "main": ".eslintrc.json",
+  "version": "1.0.0",
+  "main": "eslint.config.mjs",
   "license": "CC0-1.0",
   "repository": "https://github.com/evanwang0/configs",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
   "peerDependencies": {
-    "eslint": "^8.29.0"
+    "eslint": "^9.17.0"
   }
 }
