@@ -1,0 +1,7 @@
+{
+  "module": "true",
+  "devDependencies": {
+    "@evanwang0/eslint-config-base": "workspace:^",
+    "eslint": "^9.17.0"
+  }
+}
