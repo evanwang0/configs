@@ -113,7 +113,7 @@ export default [
       "no-bitwise": "off",
       "no-caller": "off",
       "no-case-declarations": "error",
-      "no-console": ["error", { allow: ["info", "warn", "error"] }],
+      "no-console": "off",
       "no-continue": "off",
       "no-delete-var": "error",
       "no-div-regex": "off",
